@@ -1,8 +1,0 @@
-print(2+2)
-print(3**5)
-print(divmod(52,3))
-print(pow(6,7))
-print(round(127/6,2))
-print(bin(2000))
-print(oct(2000))
-print(hex(2000))
